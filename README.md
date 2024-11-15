@@ -74,7 +74,7 @@ View my notebook with detailed steps here: [TopScorer](TopScorerPL.ipynb).
 
 ### Winners of the Premier League
 
-View my notebook with detailed steps here: [Winners](WinnerDetailsPL.ipynb).
+View my notebook with detailed steps here: [Winners](WinnerDetails.ipynb).
 
 
 
